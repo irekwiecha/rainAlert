@@ -1,13 +1,13 @@
 # Weather Alert
 
 Python script to send SMS alert in case of precipitation within the coming 12h
-Create your own twilio account or use smtplib
 
+- Create your own twilio account or use smtplib
 ```
 twilio ->  https://www.twilio.com/try-twilio
 ```
 
-Create your own priv.json file
+- Create your own priv.json file
 
 ```javascript
 {
